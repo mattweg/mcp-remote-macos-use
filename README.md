@@ -105,7 +105,7 @@ To use WebRTC features, you'll need to:
 ### Clone the repo
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-remote-macos-use.git
+git clone https://github.com/baryhuang/mcp-remote-macos-use.git
 cd mcp-remote-macos-use
 ```
 
